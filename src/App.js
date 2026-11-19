@@ -1,4 +1,4 @@
-import './App.css';
+import './app.css';
 import Nav from './components/Nav'
 
 function App() {

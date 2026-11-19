@@ -1,6 +1,6 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fontawesome/react-fontawesome'
-import LibraryLogo from '../assets/Library.svg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import LibraryLogo from '../Library.svg'
 
 const Nav = () => {
   return (
