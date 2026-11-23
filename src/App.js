@@ -1,7 +1,9 @@
 import './app.css';
-import Highlights from './components/Highlights'
-import Landing from './components/Landing'
-import Nav from './components/Nav'
+import Featured from './components/Featured';
+import Highlights from './components/Highlights';
+import Landing from './components/Landing';
+import Nav from './components/Nav';
+
 
 function App() {
   return (
@@ -9,6 +11,7 @@ function App() {
     <Nav />
     <Landing />
     <Highlights />
+    <Featured />
     </div>
   );
 }
